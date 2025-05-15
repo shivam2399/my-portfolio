@@ -3,8 +3,13 @@ export const projects = [
   {
     title: 'Portfolio Website',
     description: 'A modern portfolio with smooth animations and responsive design.',
-    link: 'https://yourdomain.com',
-    image: '/images/portfolio.png',
+    link: 'https://my-portfolio-three-orpin-95.vercel.app/',
+    image: '/images/Portfolio.png',
   },
-  // Add more projects
+  {
+    title: 'E-Commerce web app',
+    description: 'A modern E-Commerce web app inspired by Amazon',
+    link: 'https://firecommerce-55988.web.app/',
+    image: '/images/EComm.png'
+  }
 ];

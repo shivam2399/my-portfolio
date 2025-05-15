@@ -1,4 +1,3 @@
-// app/components/sections/About.tsx
 'use client';
 
 import { useEffect, useRef } from 'react';
@@ -12,7 +11,11 @@ export default function About() {
   }, []);
 
   return (
-    <section id="about" ref={aboutRef} className="py-20 px-4 bg-white text-gray-800">
+    <section
+      id="about"
+      ref={aboutRef}
+      className="py-20 px-4 bg-white text-gray-800"
+    >
       <div className="max-w-4xl mx-auto text-center">
         <h2 className="text-4xl font-bold mb-6">About Me</h2>
         <p className="text-lg leading-relaxed">
