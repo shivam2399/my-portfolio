@@ -11,5 +11,11 @@ export const projects = [
     description: 'A modern E-Commerce web app inspired by Amazon',
     link: 'https://firecommerce-55988.web.app/',
     image: '/images/EComm.png'
+  },
+  {
+    title: 'Chouhan Motors',
+    description: 'A modern website for a Hero Dealership for displaying services and offers',
+    link: 'https://chouhanmotors.com/',
+    image: '/images/Motors.png'
   }
 ];
